@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605171528003I5ZVW</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260517152800WMI4BF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>DEL SURCO A LA MESA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SITUACION DE APRENDIZAJE 2 ESO PROPORCIONALIDAD</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>MANUEL VALVERDE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje contextualizada en Marinaleda que desarrolla competencias matemáticas (proporcionalidad directa e inversa, cálculos de costes, viabilidad económica) a través de la creación de una cooperativa agrícola ficticia. Incluye trabajo colaborativo, uso de herramientas digitales y toma de decisiones empresariales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778918854073</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp82csj8-ap57t3dla</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp82csj8-ap57t3dla</odePageId>
+      <odeBlockId>block-1779008724903-bklan0q0a</odeBlockId>
+      <blockName>Guía didáctica para la aplicación del proyecto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csj8-ap57t3dla</odePageId>
+          <odeBlockId>block-1779008724903-bklan0q0a</odeBlockId>
+          <odeIdeviceId>idevice-1779008724901-mqb8ge7z5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta guía didáctica presenta la organización curricular y metodológica de la situación de aprendizaje “Del Surco a la Mesa: Cooperativa Agro-Andaluza”, dirigida al alumnado de 2.º de ESO en la materia de Matemáticas.</p>
+<p>El proyecto conecta la proporcionalidad, la interpretación de datos y la resolución de problemas con un contexto cercano: la creación de una cooperativa agrícola inspirada en el entorno y las características de la localidad Marinaleda.</p>
+<p><img src="{{context_path}}/content/resources/guia didactica.png" width="779" height="661" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779008724901-mqb8ge7z5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta guía didáctica presenta la organización curricular y metodológica de la situación de aprendizaje “Del Surco a la Mesa: Cooperativa Agro-Andaluza”, dirigida al alumnado de 2.º de ESO en la materia de Matemáticas.</p>\n<p>El proyecto conecta la proporcionalidad, la interpretación de datos y la resolución de problemas con un contexto cercano: la creación de una cooperativa agrícola inspirada en el entorno y las características de la localidad Marinaleda.</p>\n<p><img src=\"{{context_path}}/content/resources/guia didactica.png\" width=\"779\" height=\"661\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp82csja-jc15ijscf</odePageId>
+  <odeParentPageId>page-mp82csj8-ap57t3dla</odeParentPageId>
+  <pageName>1. PRESENTACIÓN. BIENVENIDA AL PROYECTO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. PRESENTACIÓN. BIENVENIDA AL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. PRESENTACIÓN. BIENVENIDA AL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. PRESENTACIÓN. BIENVENIDA AL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp82csja-jc15ijscf</odePageId>
+      <odeBlockId>block-1778671171208-29jeh9aos</odeBlockId>
+      <blockName>BIENVENIDA</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csja-jc15ijscf</odePageId>
+          <odeBlockId>block-1778671171208-29jeh9aos</odeBlockId>
+          <odeIdeviceId>idevice-1778671171205-zd9hls54y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos y bienvenidas a esta situación de aprendizaje de Matemáticas.</p>
+<p>Durante las próximas sesiones nos convertiréis en socios y socias de una cooperativa agrícola inspirada en<span style="font-size: 19.2px;"> el entorno d</span><span style="font-size: 19.2px;">e la localidad de Marinaleda.</span></p>
+<p>Nuestro reto u objetivo será tomar decisiones, realizar los cálculos necesarios, organizar el trabajo en la cooperativa  y comprobar si nuestra cooperativa puede llegar a ser viable.</p>
+<p>Trabajaremos con distintos cultivos de hortalizas como alcachofas, pimientos, etc  así como su transformación<span style="font-size: 19.2px;"> en conservas. Para ello trabajaremos elaborando presupuestos, exposición y uso de tablas analizando sus gráficos. Todo con la ayuda de la proporcionalidad y las diferentes herramientas digitales. </span></p>
+<p>Las matemáticas serán la herramienta que nos ayudará a pasar del surco a la mesa.     </p>
+<p>       </p>
+<figure class="exe-figure position-center" style="width: 1892px;"><img src="{{context_path}}/content/resources/IMAGEN COOPERATIVA2.png" width="1892" height="719" alt="" />
+<figcaption class="figcaption"><a href="https://marinaleda.coop/" class="author" target="_blank" rel="noopener">https://marinaleda.coop/</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778671171205-zd9hls54y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos y bienvenidas a esta situación de aprendizaje de Matemáticas.</p>\n<p>Durante las próximas sesiones nos convertiréis en socios y socias de una cooperativa agrícola inspirada en<span style=\"font-size: 19.2px;\"> el entorno d</span><span style=\"font-size: 19.2px;\">e la localidad de Marinaleda.</span></p>\n<p>Nuestro reto u objetivo será tomar decisiones, realizar los cálculos necesarios, organizar el trabajo en la cooperativa  y comprobar si nuestra cooperativa puede llegar a ser viable.</p>\n<p>Trabajaremos con distintos cultivos de hortalizas como alcachofas, pimientos, etc  así como su transformación<span style=\"font-size: 19.2px;\"> en conservas. Para ello trabajaremos elaborando presupuestos, exposición y uso de tablas analizando sus gráficos. Todo con la ayuda de la proporcionalidad y las diferentes herramientas digitales. </span></p>\n<p>Las matemáticas serán la herramienta que nos ayudará a pasar del surco a la mesa.     </p>\n<p>       </p>\n<figure class=\"exe-figure position-center\" style=\"width: 1892px;\"><img src=\"{{context_path}}/content/resources/IMAGEN COOPERATIVA2.png\" width=\"1892\" height=\"719\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://marinaleda.coop/\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://marinaleda.coop/</a>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778919677447-cygjk7nhz</odePageId>
+  <odeParentPageId>page-mp82csj8-ap57t3dla</odeParentPageId>
+  <pageName>2. ¿QUÉ VAMOS A HACER?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¿QUÉ VAMOS A HACER?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778919677447-cygjk7nhz</odePageId>
+      <odeBlockId>block-1778922039768-404h9ew4t</odeBlockId>
+      <blockName>Una Cooperativa agrícola creada por nosotros</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778919677447-cygjk7nhz</odePageId>
+          <odeBlockId>block-1778922039768-404h9ew4t</odeBlockId>
+          <odeIdeviceId>idevice-1778922039766-nvu89uon9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto no vais a trabajar las matemáticas como una lista de ejercicios aislados.</p>
+<p>Vais a convertiros en socios y socias de una pequeña cooperativa agrícola inspirada en la realidad de Marinaleda, un entorno muy vinculado a la agricultura, al trabajo  en comunidad  y a la producción de alimentos.</p>
+<p><embed width="1000" height="500" src="{{context_path}}/content/resources/siatuacion de aprendizaje 2.1.pdf" type="application/pdf"></embed></p>
+<p></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778922039766-nvu89uon9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto no vais a trabajar las matemáticas como una lista de ejercicios aislados.</p>\n<p>Vais a convertiros en socios y socias de una pequeña cooperativa agrícola inspirada en la realidad de Marinaleda, un entorno muy vinculado a la agricultura, al trabajo  en comunidad  y a la producción de alimentos.</p>\n<p><embed width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/siatuacion de aprendizaje 2.1.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778919677447-cygjk7nhz</odePageId>
+      <odeBlockId>block-1778925739740-ayvtsy7px</odeBlockId>
+      <blockName>Pensamos en equipo</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778919677447-cygjk7nhz</odePageId>
+          <odeBlockId>block-1778925739740-ayvtsy7px</odeBlockId>
+          <odeIdeviceId>idevice-1778925739738-43b9r2s5v</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778925739738-43b9r2s5v" title="" href="{{context_path}}/content/resources/IMAGEN REFLEXIVA TAREA 2.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/IMAGEN REFLEXIVA TAREA 2.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778925739738-43b9r2s5v","img_1":{"img":"{{context_path}}/content/resources/IMAGEN REFLEXIVA TAREA 2.png","thumbnail":"{{context_path}}/content/resources/IMAGEN REFLEXIVA TAREA 2.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp82csjd-8merqhcj5</odePageId>
+  <odeParentPageId>page-mp82csj8-ap57t3dla</odeParentPageId>
+  <pageName>2. PROTECCIÓN DE DATOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp82csjd-8merqhcj5</odePageId>
+      <odeBlockId>block-1778926733780-dsu043nz4</odeBlockId>
+      <blockName>Protegemos nuestros datos y los derechos digitales</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjd-8merqhcj5</odePageId>
+          <odeBlockId>block-1778926733780-dsu043nz4</odeBlockId>
+          <odeIdeviceId>idevice-1778926733779-7qgxe4ezl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante esta situación de aprendizaje usaremos herramientas digitales como Google Sheets, Youtube, Canva, Symbaloo, etc. Es muy importante que <span style="color: #000000;"><strong>COMPRENDAMOS</strong></span> cómo proteger nuestros datos y respetar los derechos digitales.</p>
+<p><span style="color: #236fa1;">CONCEPTOS CLAVE</span><br />Copyright (©): "Todos los derechos reservados" — Más restrictivo</p>
+<p>Creative Commons (CC): Permite su uso con condiciones (hay qeu mencionar autor, no se puede realizar modificaciones y no se puede realizar un lucro de él, etc.)</p>
+<p>Dominio Público: Recursos que no tiene restricciones.</p>
+<p><strong><span style="color: #236fa1;">DECÁLOGO DEL BUEN USO DE INTERNET</span></strong><br />✓ No dar datos personales a desconocidos<br />✓ Asegurar cuentas con contraseñas robustas<br />✓ Usar correo electrónico de forma responsable<br />✓ Respetar derechos de propiedad intelectual<br />✓ Ser conscientes de nuestra huella digital<br />✓ Usar imágenes y recursos con licencia adecuada<br />✓ Pensar antes de compartir: ¿es seguro? ¿es respetuoso?<br />✓ Cuidar los dispositivos del centro<br />✓ Reportar problemas de seguridad<br />✓ Equilibrar tiempo digital con actividades offline</p>
+<p><strong><span style="color: #236fa1;">COMPROMISO:</span> </strong>Al trabajar en esta situación de aprendizaje, nos comprometemos a usar la tecnología de manera ética, segura y responsable.</p>
+<figure class="exe-figure exe-media position-center license-pd" style="width: 1000px;"><embed width="1000" height="500" src="{{context_path}}/content/resources/INFOGRAFIA LICENCIAS Y SEGURIDAD (1).pdf" type="application/pdf"></embed>
+<figcaption class="figcaption"><span class="author">MANUEL VALVERDE</span>. <span class="title"><em>LICENCIAS Y SEGURIDAD</em></span> <span class="license"><span class="sep">(</span><span>Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778926733779-7qgxe4ezl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante esta situación de aprendizaje usaremos herramientas digitales como Google Sheets, Youtube, Canva, Symbaloo, etc. Es muy importante que <span style=\"color: #000000;\"><strong>COMPRENDAMOS</strong></span> cómo proteger nuestros datos y respetar los derechos digitales.</p>\n<p><span style=\"color: #236fa1;\">CONCEPTOS CLAVE</span><br />Copyright (©): \"Todos los derechos reservados\" — Más restrictivo</p>\n<p>Creative Commons (CC): Permite su uso con condiciones (hay qeu mencionar autor, no se puede realizar modificaciones y no se puede realizar un lucro de él, etc.)</p>\n<p>Dominio Público: Recursos que no tiene restricciones.</p>\n<p><strong><span style=\"color: #236fa1;\">DECÁLOGO DEL BUEN USO DE INTERNET</span></strong><br />✓ No dar datos personales a desconocidos<br />✓ Asegurar cuentas con contraseñas robustas<br />✓ Usar correo electrónico de forma responsable<br />✓ Respetar derechos de propiedad intelectual<br />✓ Ser conscientes de nuestra huella digital<br />✓ Usar imágenes y recursos con licencia adecuada<br />✓ Pensar antes de compartir: ¿es seguro? ¿es respetuoso?<br />✓ Cuidar los dispositivos del centro<br />✓ Reportar problemas de seguridad<br />✓ Equilibrar tiempo digital con actividades offline</p>\n<p><strong><span style=\"color: #236fa1;\">COMPROMISO:</span> </strong>Al trabajar en esta situación de aprendizaje, nos comprometemos a usar la tecnología de manera ética, segura y responsable.</p>\n<figure class=\"exe-figure exe-media position-center license-pd\" style=\"width: 1000px;\"><embed width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/INFOGRAFIA LICENCIAS Y SEGURIDAD (1).pdf\" type=\"application/pdf\"></embed>\n<figcaption class=\"figcaption\"><span class=\"author\">MANUEL VALVERDE</span>. <span class=\"title\"><em>LICENCIAS Y SEGURIDAD</em></span> <span class=\"license\"><span class=\"sep\">(</span><span>Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp82csjd-mmr6zi2go</odePageId>
+  <odeParentPageId>page-mp82csj8-ap57t3dla</odeParentPageId>
+  <pageName>3. DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp82csjd-mmr6zi2go</odePageId>
+      <odeBlockId>block-1778926656820-qgzd4nmn6</odeBlockId>
+      <blockName>¿QUÉ TENDREMOS QUE CREAR?</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjd-mmr6zi2go</odePageId>
+          <odeBlockId>block-1778926656820-qgzd4nmn6</odeBlockId>
+          <odeIdeviceId>idevice-1778926656819-nc2hymflq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778926656819-nc2hymflq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp82csjd-mmr6zi2go</odePageId>
+      <odeBlockId>block-1778936508334-wkt8d3o3z</odeBlockId>
+      <blockName>Caminamos hacia lo qué debemos y cómo lo debemos preparar. Nuestro objetivo.</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjd-mmr6zi2go</odePageId>
+          <odeBlockId>block-1778936508334-wkt8d3o3z</odeBlockId>
+          <odeIdeviceId>idevice-1778936508331-bncglvi95</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo del proyecto, cada grupo diseñará una cooperativa agrícola propia.</p>
+<p>Para demostrar que vuestra propuesta está bien pensada, no bastará con tener una idea atractiva sino que tendréis que organizar los datos, realizar los diferentes cálculos necesarios y  tomar decisiones las decisiones oportuna para explicar vuestra conclusió final.</p>
+<p>El producto final estará formado por dos partes conectadas:</p>
+<p>Una <span style="color: #000000;"><strong>hoja de cálculo</strong></span> con los datos y operaciones principales haciendo uso de<span style="color: #843fa1;"><strong> Google Sheets o LibreOffice Calc</strong></span>  y en la que incluiremos aspectos como: </p>
+<ul>
+<li>Reparto de la superficie de cultivo.</li>
+<li>Cantidad de agua y abono necesaria.</li>
+<li>Producción estimada.</li>
+<li>Número de botes de conserva.</li>
+<li>Costes estimados.</li>
+<li>Ingresos estimados.</li>
+<li>Posibles beneficios o pérdidas.<br /><br /></li>
+</ul>
+<p>Y una <span style="color: #000000;"><strong>presentación digital</strong></span> con la explicación completa del proyecto a través de <span style="color: #843fa1;"><strong>Canva o PowerPoint.</strong></span></p>
+<p>En ella se incluirá:</p>
+<ul>
+<li>El nombre de la cooperativa.</li>
+<li>Los cultivos que se han elegido, ( alcachofas, pimientos, etc)</li>
+<li>Decisiones tomadas y por qué se han tomado.</li>
+<li>Representación de los datos obtenidos de manera atractiva visualmente.</li>
+<li>Conclusión final sobre la viabilidad de la cooperativa.<br /><br /></li>
+</ul>
+<p><img src="{{context_path}}/content/resources/imagen canva y libreoffice_1.png" width="714" height="114" alt="" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778936508331-bncglvi95","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo del proyecto, cada grupo diseñará una cooperativa agrícola propia.</p>\n<p>Para demostrar que vuestra propuesta está bien pensada, no bastará con tener una idea atractiva sino que tendréis que organizar los datos, realizar los diferentes cálculos necesarios y  tomar decisiones las decisiones oportuna para explicar vuestra conclusió final.</p>\n<p>El producto final estará formado por dos partes conectadas:</p>\n<p>Una <span style=\"color: #000000;\"><strong>hoja de cálculo</strong></span> con los datos y operaciones principales haciendo uso de<span style=\"color: #843fa1;\"><strong> Google Sheets o LibreOffice Calc</strong></span>  y en la que incluiremos aspectos como: </p>\n<ul>\n<li>Reparto de la superficie de cultivo.</li>\n<li>Cantidad de agua y abono necesaria.</li>\n<li>Producción estimada.</li>\n<li>Número de botes de conserva.</li>\n<li>Costes estimados.</li>\n<li>Ingresos estimados.</li>\n<li>Posibles beneficios o pérdidas.<br /><br /></li>\n</ul>\n<p>Y una <span style=\"color: #000000;\"><strong>presentación digital</strong></span> con la explicación completa del proyecto a través de <span style=\"color: #843fa1;\"><strong>Canva o PowerPoint.</strong></span></p>\n<p>En ella se incluirá:</p>\n<ul>\n<li>El nombre de la cooperativa.</li>\n<li>Los cultivos que se han elegido, ( alcachofas, pimientos, etc)</li>\n<li>Decisiones tomadas y por qué se han tomado.</li>\n<li>Representación de los datos obtenidos de manera atractiva visualmente.</li>\n<li>Conclusión final sobre la viabilidad de la cooperativa.<br /><br /></li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/imagen canva y libreoffice_1.png\" width=\"714\" height=\"114\" alt=\"\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp82csjd-mmr6zi2go</odePageId>
+      <odeBlockId>block-1778938978472-y46lrhzr7</odeBlockId>
+      <blockName>DISEÑAR UNA COOPERATIVA AGRÍCOLA VIABLE Y PRESENTADA AL RESTO DE LA CLASE, UTILIZANDO DATOS , CÁLCULOS MATEMÁTICOS Y HERRAMIENTAS DIGITALES</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjd-mmr6zi2go</odePageId>
+          <odeBlockId>block-1778938978472-y46lrhzr7</odeBlockId>
+          <odeIdeviceId>idevice-1778938978469-hj19mgs3x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778938978469-hj19mgs3x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp82csjd-mmr6zi2go</odePageId>
+      <odeBlockId>block-1778939817602-51184tliy</odeBlockId>
+      <blockName>ACCESO CURSO BÁSICO INTRODUCCIÓN DE GOOGLE SHEETS Y LIBRE OFFICE CALC</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjd-mmr6zi2go</odePageId>
+          <odeBlockId>block-1778939817602-51184tliy</odeBlockId>
+          <odeIdeviceId>idevice-1778939817601-4w6uhonad</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="314" src="https://www.youtube.com/embed/5XajnvrruLc?list=PLLniqWgyb4HER9pzn1dhTzGi-Nk2ThqwJ" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/v7JsP6svK5k?list=PLLniqWgyb4HENhKJMlsWFqs1-GDYpup84&amp;index=1" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778939817601-4w6uhonad","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/5XajnvrruLc?list=PLLniqWgyb4HER9pzn1dhTzGi-Nk2ThqwJ\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/v7JsP6svK5k?list=PLLniqWgyb4HENhKJMlsWFqs1-GDYpup84&amp;index=1\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp82csjd-mmr6zi2go</odePageId>
+      <odeBlockId>block-1778940181408-4kdffk2m6</odeBlockId>
+      <blockName>ACCESO CURSO BÁSICO DE PRESENTACIÓN DIGITAL A TRAVÉS DE CANVA O POWER POINT</blockName>
+      <iconName>suitcase</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjd-mmr6zi2go</odePageId>
+          <odeBlockId>block-1778940181408-4kdffk2m6</odeBlockId>
+          <odeIdeviceId>idevice-1778940181406-ulj9a8at3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="314" src="https://www.youtube.com/embed/K_h8vVleTC0" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/EkZsOGjrLZI" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778940181406-ulj9a8at3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/K_h8vVleTC0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/EkZsOGjrLZI\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp82csje-h4z3a54yx</odePageId>
+  <odeParentPageId>page-mp82csj8-ap57t3dla</odeParentPageId>
+  <pageName>4. CURACIÓN DE CONTENIDO. ALUMNOS Y PROFES</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. CURACIÓN DE CONTENIDO. ALUMNOS Y PROFES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. CURACIÓN DE CONTENIDO. ALUMNOS Y PROFES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp82csje-h4z3a54yx</odePageId>
+      <odeBlockId>block-1778942314762-947su1eob</odeBlockId>
+      <blockName>Tú panel de apoyo durante el proyecto.</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csje-h4z3a54yx</odePageId>
+          <odeBlockId>block-1778942314762-947su1eob</odeBlockId>
+          <odeIdeviceId>idevice-1778942314761-ves65b0d1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para desarrollar bien nuestra cooperativa agrícola, necesitaremos consultar algunos materiales de apoyo.</p>
+<p>En este apartado se encontraráun panel de recursos digitales seleccionado especialmente para ayudar durante el proyecto.</p>
+<p>Desde este espacio se podrá acceder a explicaciones, tutoriales y materiales relacionados con todas las herramientas que necesitarás, por ejemplo:</p>
+<ul>
+<li>La proporcionalidad directa e inversa.</li>
+<li>El uso de la hoja de cálculo.   </li>
+</ul>
+<p><a href="https://www.symbaloo.com/shared/AAAAAQ4E_ZgAA41-5EZ-Kw==">  https://www.symbaloo.com/shared/AAAAAQ4E_ZgAA41-5EZ-Kw==</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778942314761-ves65b0d1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para desarrollar bien nuestra cooperativa agrícola, necesitaremos consultar algunos materiales de apoyo.</p>\n<p>En este apartado se encontraráun panel de recursos digitales seleccionado especialmente para ayudar durante el proyecto.</p>\n<p>Desde este espacio se podrá acceder a explicaciones, tutoriales y materiales relacionados con todas las herramientas que necesitarás, por ejemplo:</p>\n<ul>\n<li>La proporcionalidad directa e inversa.</li>\n<li>El uso de la hoja de cálculo.   </li>\n</ul>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAQ4E_ZgAA41-5EZ-Kw==\">  https://www.symbaloo.com/shared/AAAAAQ4E_ZgAA41-5EZ-Kw==</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp82csje-h4z3a54yx</odePageId>
+      <odeBlockId>block-1778943084378-6g4a0p2u1</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csje-h4z3a54yx</odePageId>
+          <odeBlockId>block-1778943084378-6g4a0p2u1</odeBlockId>
+          <odeIdeviceId>idevice-1778943084377-5vj2zhsql</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778943084377-5vj2zhsql" title="" href="{{context_path}}/content/resources/symballo.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/symballo.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778943084377-5vj2zhsql","img_0":{"img":"{{context_path}}/content/resources/symballo.png","thumbnail":"{{context_path}}/content/resources/symballo.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp82csje-h4z3a54yx</odePageId>
+      <odeBlockId>block-1778943291793-k0a2dawru</odeBlockId>
+      <blockName>Padlet. Para nuestro profesorado</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csje-h4z3a54yx</odePageId>
+          <odeBlockId>block-1778943291793-k0a2dawru</odeBlockId>
+          <odeIdeviceId>idevice-1778943291792-h6w81ktm9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #236fa1;"><strong>PARA NUESTRO PROFESORADO</strong></span><br />Se proporcional, <strong>Padlet</strong> una plataforma para recursos prosionales.<br /></p>
+<p><a href="https://padlet.com/mvalcar575/recursos-generales-rgfvdkhe9zztqubr" title="">https://padlet.com/mvalcar575/recursos-generales-rgfvdkhe9zztqubr</a></p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/qrcode_padlet.com.png" width="450" height="450" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778943291792-h6w81ktm9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #236fa1;\"><strong>PARA NUESTRO PROFESORADO</strong></span><br />Se proporcional, <strong>Padlet</strong> una plataforma para recursos prosionales.<br /></p>\n<p><a href=\"https://padlet.com/mvalcar575/recursos-generales-rgfvdkhe9zztqubr\" title=\"\">https://padlet.com/mvalcar575/recursos-generales-rgfvdkhe9zztqubr</a></p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/qrcode_padlet.com.png\" width=\"450\" height=\"450\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp82csje-tc8v5sxa6</odePageId>
+  <odeParentPageId>page-mp82csj8-ap57t3dla</odeParentPageId>
+  <pageName>5. CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp82csje-tc8v5sxa6</odePageId>
+      <odeBlockId>block-1779008188474-ososy4knb</odeBlockId>
+      <blockName>¿Qué se tendrá en cuenta en este proyecto?</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csje-tc8v5sxa6</odePageId>
+          <odeBlockId>block-1779008188474-ososy4knb</odeBlockId>
+          <odeIdeviceId>idevice-1779008188471-o4on3dgam</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje, cada tarea que realizamos tiene una finalidad concreta.</p>
+<p>No solo se valorará el resultado final, sino también la forma en la que interpretamos los problemas, organizamos todos losdatos y utilizamos las matemáticas, tomamos las distintas decisiones que más nos interesa y por supuesto todo realizándolo con un trabajo en equipo  para finalmente comuniciar y expresar nuestras conclusiones. </p>
+<p>A lo largo del proyecto iremos demostrando lo que aprendemos en cada fase de nuestra cooperativa agrícola.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779008188471-o4on3dgam","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje, cada tarea que realizamos tiene una finalidad concreta.</p>\n<p>No solo se valorará el resultado final, sino también la forma en la que interpretamos los problemas, organizamos todos losdatos y utilizamos las matemáticas, tomamos las distintas decisiones que más nos interesa y por supuesto todo realizándolo con un trabajo en equipo  para finalmente comuniciar y expresar nuestras conclusiones. </p>\n<p>A lo largo del proyecto iremos demostrando lo que aprendemos en cada fase de nuestra cooperativa agrícola.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp82csje-tc8v5sxa6</odePageId>
+      <odeBlockId>block-1778945674924-j596bided</odeBlockId>
+      <blockName>¿Evaluar no significa poner una nota final? Documento completo actividades y criterios de evaluación.</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csje-tc8v5sxa6</odePageId>
+          <odeBlockId>block-1778945674924-j596bided</odeBlockId>
+          <odeIdeviceId>idevice-1778945674923-qi0xle44h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.036%; height: 435.563px; background-color: #ecf0f1; border-color: #ecf0f1; border-style: solid;">
+<tbody>
+<tr style="height: 37.7969px;">
+<td style="width: 24.9687%; height: 37.7969px; border-style: solid; text-align: center;"><span style="text-decoration: underline; color: #34495e;"><strong>SESIÓN</strong></span></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><span style="text-decoration: underline; color: #34495e;"><strong>TAREA</strong></span></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><span style="text-decoration: underline; color: #34495e;"><strong>CRITERIOS</strong></span></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><span style="text-decoration: underline; color: #34495e;"><strong>TIEMPO</strong></span></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>1</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>Presentación</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>MAT.2.6.1, MAT.2.8.1</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;">1 sesión</td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>2</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>Investigación</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>MAT.2.6.2, MAT.2.6.3</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;">1 sesión</td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>3</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>Diseño Terreno</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;">
+<p><strong>MAT.2.1.1, MAT.2.1.2</strong></p>
+<p><strong>MAT 2.1.5.1</strong></p>
+</td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;">1 sesión</td>
+</tr>
+<tr style="height: 66.5938px;">
+<td style="width: 24.9687%; height: 66.5938px; text-align: center;"><strong>4</strong></td>
+<td style="width: 24.9687%; height: 66.5938px; text-align: center;"><strong>Agua y Abono (Prop. Directa)</strong></td>
+<td style="width: 24.9687%; height: 66.5938px; text-align: center;"><strong>MAT.2.1.3, MAT.2.2.1</strong></td>
+<td style="width: 24.9687%; height: 66.5938px; text-align: center;">1 sesión</td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>5</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>Trabajo (Prop. Inversa)</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>MAT.2.3.1, MAT.2.3.2, MAT.2.2.2</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;">1 sesión</td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>6</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>Presupuesto</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>MAT.2.4.1, MAT.2.4.2</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;">1-2 sesiones</td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>7</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>Viabilidad</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>MAT.2.2.1, MAT.2.2.2,MAT.2.7.2</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;">1 sesión</td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>8</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>Gráficos</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;"><strong>MAT.2.7.1, MAT.2.8.2</strong></td>
+<td style="width: 24.9687%; height: 37.7969px; text-align: center;">1 sesión</td>
+</tr>
+<tr style="height: 66.5938px;">
+<td style="width: 24.9687%; height: 66.5938px; text-align: center;"><strong>9-10</strong></td>
+<td style="width: 24.9687%; height: 66.5938px; text-align: center;"><strong>Presentación Final y exposición</strong></td>
+<td style="width: 24.9687%; height: 66.5938px; text-align: center;"><strong>MAT.2.8.1, MAT.2.7.1,MAT.2.10.1,MAT.2.10.2</strong></td>
+<td style="width: 24.9687%; height: 66.5938px; text-align: center;">2 sesiones</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><br /></p>
+<p><embed width="1300" height="650" src="{{context_path}}/content/resources/asociacion de criterios1.pdf" type="application/pdf"></embed></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778945674923-qi0xle44h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.036%; height: 435.563px; background-color: #ecf0f1; border-color: #ecf0f1; border-style: solid;\">\n<tbody>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 24.9687%; height: 37.7969px; border-style: solid; text-align: center;\"><span style=\"text-decoration: underline; color: #34495e;\"><strong>SESIÓN</strong></span></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><span style=\"text-decoration: underline; color: #34495e;\"><strong>TAREA</strong></span></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><span style=\"text-decoration: underline; color: #34495e;\"><strong>CRITERIOS</strong></span></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><span style=\"text-decoration: underline; color: #34495e;\"><strong>TIEMPO</strong></span></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>1</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>Presentación</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>MAT.2.6.1, MAT.2.8.1</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\">1 sesión</td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>2</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>Investigación</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>MAT.2.6.2, MAT.2.6.3</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\">1 sesión</td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>3</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>Diseño Terreno</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\">\n<p><strong>MAT.2.1.1, MAT.2.1.2</strong></p>\n<p><strong>MAT 2.1.5.1</strong></p>\n</td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\">1 sesión</td>\n</tr>\n<tr style=\"height: 66.5938px;\">\n<td style=\"width: 24.9687%; height: 66.5938px; text-align: center;\"><strong>4</strong></td>\n<td style=\"width: 24.9687%; height: 66.5938px; text-align: center;\"><strong>Agua y Abono (Prop. Directa)</strong></td>\n<td style=\"width: 24.9687%; height: 66.5938px; text-align: center;\"><strong>MAT.2.1.3, MAT.2.2.1</strong></td>\n<td style=\"width: 24.9687%; height: 66.5938px; text-align: center;\">1 sesión</td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>5</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>Trabajo (Prop. Inversa)</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>MAT.2.3.1, MAT.2.3.2, MAT.2.2.2</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\">1 sesión</td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>6</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>Presupuesto</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>MAT.2.4.1, MAT.2.4.2</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\">1-2 sesiones</td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>7</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>Viabilidad</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>MAT.2.2.1, MAT.2.2.2,MAT.2.7.2</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\">1 sesión</td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>8</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>Gráficos</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\"><strong>MAT.2.7.1, MAT.2.8.2</strong></td>\n<td style=\"width: 24.9687%; height: 37.7969px; text-align: center;\">1 sesión</td>\n</tr>\n<tr style=\"height: 66.5938px;\">\n<td style=\"width: 24.9687%; height: 66.5938px; text-align: center;\"><strong>9-10</strong></td>\n<td style=\"width: 24.9687%; height: 66.5938px; text-align: center;\"><strong>Presentación Final y exposición</strong></td>\n<td style=\"width: 24.9687%; height: 66.5938px; text-align: center;\"><strong>MAT.2.8.1, MAT.2.7.1,MAT.2.10.1,MAT.2.10.2</strong></td>\n<td style=\"width: 24.9687%; height: 66.5938px; text-align: center;\">2 sesiones</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><br /></p>\n<p><embed width=\"1300\" height=\"650\" src=\"{{context_path}}/content/resources/asociacion de criterios1.pdf\" type=\"application/pdf\"></embed></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp82csjf-t5kf34zuz</odePageId>
+  <odeParentPageId>page-mp82csj8-ap57t3dla</odeParentPageId>
+  <pageName>6. LINEA TEMPORAL</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. LINEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. LINEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp82csjf-t5kf34zuz</odePageId>
+      <odeBlockId>block-1779009120158-qu63l89m8</odeBlockId>
+      <blockName>Nuestra hoja de ruta</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjf-t5kf34zuz</odePageId>
+          <odeBlockId>block-1779009120158-qu63l89m8</odeBlockId>
+          <odeIdeviceId>idevice-1779009120157-4aw9t6iqn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de avanzar, conviene conocer el recorrido completo del proyecto.</p>
+<p>Esta línea temporal muestra las sesiones así como las tareas principales teniendo en cuenta los agrupamientos, los espacios y las herramientas que utilizaremos para construir nuestra cooperativa agrícola paso a paso.</p>
+<p><embed width="1300" height="650" src="{{context_path}}/content/resources/LÍNEA TEMPORAL SITUACION DE APRENDIZAJE . COOPERATIVA AGRICOLA.pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779009120157-4aw9t6iqn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de avanzar, conviene conocer el recorrido completo del proyecto.</p>\n<p>Esta línea temporal muestra las sesiones así como las tareas principales teniendo en cuenta los agrupamientos, los espacios y las herramientas que utilizaremos para construir nuestra cooperativa agrícola paso a paso.</p>\n<p><embed width=\"1300\" height=\"650\" src=\"{{context_path}}/content/resources/LÍNEA TEMPORAL SITUACION DE APRENDIZAJE . COOPERATIVA AGRICOLA.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp82csjf-t5kf34zuz</odePageId>
+      <odeBlockId>block-1779015707560-20u8ypsom</odeBlockId>
+      <blockName>Fases del Proyecto. las cinco grandes fases.</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjf-t5kf34zuz</odePageId>
+          <odeBlockId>block-1779015707560-20u8ypsom</odeBlockId>
+          <odeIdeviceId>idevice-1779015707556-ubx63t031</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>1. Inicio del proyecto.</h2>
+<p>Presentamos el reto y comprendemos qué vamos a crear.<br /><br /></p>
+<h2>2. Investigación y planificación</h2>
+<p>Conocemos el contexto agrícolla y la cooperativa de Marinaleda, prodecidiendo a la elección delos cultivos</p>
+<h2>3. Cálculos matemáticos</h2>
+<p>Aplicamos los conceptos de proporcionalidad directa e inversa. Presupuestos, conceptos de producción y análisis de gastos y beneficios. </p>
+<h2>4. Toma de decisiones</h2>
+<p>Analizamos la viabilidad de la cooperativa y valoramos las posibles mejoras que se pueden llevar a cabo.</p>
+<h2>5. Producto Final</h2>
+<p>Diseñamos la presentación y exponemos nuestra propuesta a la clase en general.</p>
+</div>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779015707556-ubx63t031","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>1. Inicio del proyecto.</h2>\n<p>Presentamos el reto y comprendemos qué vamos a crear.<br /><br /></p>\n<h2>2. Investigación y planificación</h2>\n<p>Conocemos el contexto agrícolla y la cooperativa de Marinaleda, prodecidiendo a la elección delos cultivos</p>\n<h2>3. Cálculos matemáticos</h2>\n<p>Aplicamos los conceptos de proporcionalidad directa e inversa. Presupuestos, conceptos de producción y análisis de gastos y beneficios. </p>\n<h2>4. Toma de decisiones</h2>\n<p>Analizamos la viabilidad de la cooperativa y valoramos las posibles mejoras que se pueden llevar a cabo.</p>\n<h2>5. Producto Final</h2>\n<p>Diseñamos la presentación y exponemos nuestra propuesta a la clase en general.</p>\n</div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp82csjf-73u8epnby</odePageId>
+  <odeParentPageId>page-mp82csj8-ap57t3dla</odeParentPageId>
+  <pageName>7. INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp82csjf-73u8epnby</odePageId>
+      <odeBlockId>block-1779016789783-t5idz6sgo</odeBlockId>
+      <blockName>Evaluar para mejorar</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjf-73u8epnby</odePageId>
+          <odeBlockId>block-1779016789783-t5idz6sgo</odeBlockId>
+          <odeIdeviceId>idevice-1779016789781-qmnd4qj6k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante este proyecto no esperaremos al último día para saber cómo vamos.</p>
+<p>La <strong>evaluación</strong> nos acompañará desde el inicio y servirá para detectar avances, dificultades y oportunidades de mejora. Habrá instrumentos para valorar el producto final, pero también para observar el proceso, el trabajo cooperativo y la reflexión personal de cada uno de losalumos.</p>
+<figure class="exe-figure position-center" style="width: 600px;"><img src="{{context_path}}/content/resources/instrumentos de evaluacion.png" width="600" height="545" alt="" />
+<figcaption class="figcaption"><span class="author">https://blogsaverroes.juntadeandalucia.es/chemaef/instrumentos-de-evaluacion/</span>.</figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779016789781-qmnd4qj6k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante este proyecto no esperaremos al último día para saber cómo vamos.</p>\n<p>La <strong>evaluación</strong> nos acompañará desde el inicio y servirá para detectar avances, dificultades y oportunidades de mejora. Habrá instrumentos para valorar el producto final, pero también para observar el proceso, el trabajo cooperativo y la reflexión personal de cada uno de losalumos.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/instrumentos de evaluacion.png\" width=\"600\" height=\"545\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">https://blogsaverroes.juntadeandalucia.es/chemaef/instrumentos-de-evaluacion/</span>.</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp82csjf-73u8epnby</odePageId>
+      <odeBlockId>block-1779017942893-qfo5frg0u</odeBlockId>
+      <blockName>¿Qué aporca cada instrumento?</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjf-73u8epnby</odePageId>
+          <odeBlockId>block-1779017942893-qfo5frg0u</odeBlockId>
+          <odeIdeviceId>idevice-1779017942892-lrmvpbi2r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2><span style="color: #ecf0f1;">1. Rúbrica del producto final.</span></h2>
+<p>Valora la calidad de la cooperativa diseñada:</p>
+<ul>
+<li>Todos los cálculosrealizados por los alumnos.</li>
+<li>La viabilidad económica que pudiera tener según sus análisis.</li>
+<li>El uso de la hoja de cálculo.</li>
+<li>El uso de Canva o Power Point para su presentación y exposición.</li>
+</ul>
+<h2>2. Lista de coteo del proceso</h2>
+<p>Este instrumento nos permite revisar el trabajo diario:</p>
+<ul>
+<li>Ccuaderno.</li>
+<li>Organización de todos los datos.</li>
+<li>Posible corrección de errores que se hayan cometido.</li>
+<li>Participación del alumnado y el uso de recursos digitales.</li>
+</ul>
+<h2>3. Cuestionario de autoevaluación</h2>
+<p>Ayudamos al alumnado a reflexionar sobre lo aprendido así como las dificultades encontradas en todo el proceso.</p>
+<p>Se analiza los distintos rol asumidos por cada miembro del grupo y se valor posibles mejoras de cara a un futuro.</p>
+<h2>4. Registro de observación docente.</h2>
+<p>Nos permite recoger evidencias cualitativas durante las distintas sesiones, en las que valoraremos aspectos como su  motivación, el razonamiento matemático una correcta toma de decisiones y como se han desenvuelto en la exposición.</p>
+<p><br /></p>
+<p><br /></p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779017942892-lrmvpbi2r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2><span style=\"color: #ecf0f1;\">1. Rúbrica del producto final.</span></h2>\n<p>Valora la calidad de la cooperativa diseñada:</p>\n<ul>\n<li>Todos los cálculosrealizados por los alumnos.</li>\n<li>La viabilidad económica que pudiera tener según sus análisis.</li>\n<li>El uso de la hoja de cálculo.</li>\n<li>El uso de Canva o Power Point para su presentación y exposición.</li>\n</ul>\n<h2>2. Lista de coteo del proceso</h2>\n<p>Este instrumento nos permite revisar el trabajo diario:</p>\n<ul>\n<li>Ccuaderno.</li>\n<li>Organización de todos los datos.</li>\n<li>Posible corrección de errores que se hayan cometido.</li>\n<li>Participación del alumnado y el uso de recursos digitales.</li>\n</ul>\n<h2>3. Cuestionario de autoevaluación</h2>\n<p>Ayudamos al alumnado a reflexionar sobre lo aprendido así como las dificultades encontradas en todo el proceso.</p>\n<p>Se analiza los distintos rol asumidos por cada miembro del grupo y se valor posibles mejoras de cara a un futuro.</p>\n<h2>4. Registro de observación docente.</h2>\n<p>Nos permite recoger evidencias cualitativas durante las distintas sesiones, en las que valoraremos aspectos como su  motivación, el razonamiento matemático una correcta toma de decisiones y como se han desenvuelto en la exposición.</p>\n<p><br /></p>\n<p><br /></p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp82csjf-73u8epnby</odePageId>
+      <odeBlockId>block-1779019758989-dt2aqn6w6</odeBlockId>
+      <blockName>Conoce aquí nuestros instrumentos de evaluación</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjf-73u8epnby</odePageId>
+          <odeBlockId>block-1779019758989-dt2aqn6w6</odeBlockId>
+          <odeIdeviceId>idevice-1779019758987-30lv2c85w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-pd" style="width: 1200px;"><embed width="1200" height="600" src="{{context_path}}/content/resources/ACTIVIDAD INSTRUMENTOS DE EVALUACION SITUACION DE APRENDIZAJE.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><span>Dominio público</span></span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779019758987-30lv2c85w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-pd\" style=\"width: 1200px;\"><embed width=\"1200\" height=\"600\" src=\"{{context_path}}/content/resources/ACTIVIDAD INSTRUMENTOS DE EVALUACION SITUACION DE APRENDIZAJE.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><span>Dominio público</span></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp82csjf-jpm1i5kg0</odePageId>
+  <odeParentPageId>page-mp82csj8-ap57t3dla</odeParentPageId>
+  <pageName>8. CRÉDITOS</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp82csjf-jpm1i5kg0</odePageId>
+      <odeBlockId>block-1779020586979-o7i7hak8n</odeBlockId>
+      <blockName>Créditos y Licencias del proyecto</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82csjf-jpm1i5kg0</odePageId>
+          <odeBlockId>block-1779020586979-o7i7hak8n</odeBlockId>
+          <odeIdeviceId>idevice-1779020586977-1fjftjbko</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><br /></p>
+<div class="exe-fx exe-carousel">
+<p><br /></p>
+<h2>Título del Proyecto</h2>
+<p>Del Surco a la Mesa: Cooperativa Agro-Andaluza.</p>
+<h2>Autor</h2>
+<p>Manuel Valverde. Profesor de Matemáticas.</p>
+<h2>Nivel</h2>
+<p>2º ESO </p>
+<h2>MATERIA</h2>
+<p>Matemáticas</p>
+<h2>CONTEXTO</h2>
+<p>Pueblo eminentemente agrícola, Marinaleda</p>
+<h2>DESCRIPCIÓN</h2>
+<p>Situación de aprendizaje contextualizada que desarrolla competencias matemáticas (proporcionalidad directa e inversa, cálculos de costes previstos, posible viabilidad económica) a través de la creación de una cooperativa agrícola ficticia.  Todo ello fomentando el trabajo colaborativo y por supuesto el  uso de herramientas digitales.</p>
+<h2>LICENCIA DE USO</h2>
+<p>Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA 4.0)</p>
+<h2>RECURSOS UTILIZADOS</h2>
+<ul>
+<li>Symbaloo : Compilación de videos, artículos de imágenes. </li>
+<li>Padlet:  Documentos educativos descargables y de consulta para profesorado.</li>
+<li>Herramientas: Google Sheets, Canva, Powert Point, Libre Office.</li>
+<li>Imágenes: Todas las imágenes utilizadas se ha adjuntado su autoria y derechos reservados si las tuviera.</li>
+</ul>
+<h2>ACCESIBILIDAD</h2>
+<p>Este recurso está diseñado según principios DUA (Diseño Universal para el Aprendizaje)</p>
+</div>
+<p><br /></p>
+<figure class="exe-figure position-center" style="width: 700px;"><img src="{{context_path}}/content/resources/LICENCIAS Y CREDITOS.png" width="700" height="596" alt="" />
+<figcaption class="figcaption"><span class="author">https://www.derechosautor.com/derechos/licencias-creative-commons.php</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779020586977-1fjftjbko","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><br /></p>\n<div class=\"exe-fx exe-carousel\">\n<p><br /></p>\n<h2>Título del Proyecto</h2>\n<p>Del Surco a la Mesa: Cooperativa Agro-Andaluza.</p>\n<h2>Autor</h2>\n<p>Manuel Valverde. Profesor de Matemáticas.</p>\n<h2>Nivel</h2>\n<p>2º ESO </p>\n<h2>MATERIA</h2>\n<p>Matemáticas</p>\n<h2>CONTEXTO</h2>\n<p>Pueblo eminentemente agrícola, Marinaleda</p>\n<h2>DESCRIPCIÓN</h2>\n<p>Situación de aprendizaje contextualizada que desarrolla competencias matemáticas (proporcionalidad directa e inversa, cálculos de costes previstos, posible viabilidad económica) a través de la creación de una cooperativa agrícola ficticia.  Todo ello fomentando el trabajo colaborativo y por supuesto el  uso de herramientas digitales.</p>\n<h2>LICENCIA DE USO</h2>\n<p>Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA 4.0)</p>\n<h2>RECURSOS UTILIZADOS</h2>\n<ul>\n<li>Symbaloo : Compilación de videos, artículos de imágenes. </li>\n<li>Padlet:  Documentos educativos descargables y de consulta para profesorado.</li>\n<li>Herramientas: Google Sheets, Canva, Powert Point, Libre Office.</li>\n<li>Imágenes: Todas las imágenes utilizadas se ha adjuntado su autoria y derechos reservados si las tuviera.</li>\n</ul>\n<h2>ACCESIBILIDAD</h2>\n<p>Este recurso está diseñado según principios DUA (Diseño Universal para el Aprendizaje)</p>\n</div>\n<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 700px;\"><img src=\"{{context_path}}/content/resources/LICENCIAS Y CREDITOS.png\" width=\"700\" height=\"596\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">https://www.derechosautor.com/derechos/licencias-creative-commons.php</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
